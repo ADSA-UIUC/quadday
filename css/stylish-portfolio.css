@@ -52,6 +52,10 @@ body {
     color: #fff;
 }
 
+#info-button {
+    margin-bottom: 3em;
+}
+
 /* Custom Button Styles */
 
 .btn-dark {
