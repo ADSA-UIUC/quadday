@@ -60,6 +60,21 @@ h3 > span {
     font-family: monospace;
 }
 
+h3 > a:link {
+    color: #fff;
+    text-decoration: underline;
+}
+
+h3 > a:visited {
+    color: #fff;
+    text-decoration: underline;
+}
+
+h3 > a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
 /* Custom Button Styles */
 
 .btn-dark {
